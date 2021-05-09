@@ -1,4 +1,4 @@
-name: "Close stale issues"
+name: "Close stale tickets"
 on:
   schedule:
     - cron: "00 20 * * *"
